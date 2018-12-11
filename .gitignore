@@ -5,7 +5,6 @@
 *.vcxproj
 CChallenge/CChallenge/Debug/CChallenge.log
 CChallenge/Debug/CChallenge.exe
-CChallenge/CChallenge/cut_off_first_letter.c
 CChallenge/CChallenge/Debug/vc141.pdb
 CChallenge/CChallenge/Debug/Main.obj
 CChallenge/CChallenge/Debug/CChallenge.tlog/link.write.1.tlog
@@ -19,3 +18,14 @@ CChallenge/CChallenge/Debug/vc141.idb
 CChallenge/CChallenge/Debug/cut_off_first_letter.obj
 CChallenge/CChallenge/Debug/CChallenge.tlog/CL.write.1.tlog
 CChallenge/CChallenge/Debug/CChallenge.tlog/CL.read.1.tlog
+*.tlog
+CChallenge/CChallenge_argument_truncate/main.exe
+CChallenge/CChallenge_argument_truncate/Debug/vc141.idb
+CChallenge/CChallenge_argument_truncate/Debug/tests.obj
+CChallenge/CChallenge_argument_truncate/Debug/cut_off_first_letter.obj
+CChallenge/CChallenge_argument_truncate/Debug/CChallenge.log
+CChallenge/CChallenge_argument_truncate/tests.o
+CChallenge/CChallenge_argument_truncate/main.o
+CChallenge/CChallenge_argument_truncate/Debug/vc141.pdb
+CChallenge/CChallenge_argument_truncate/Debug/Main.obj
+CChallenge/CChallenge_argument_truncate/utils_method.o

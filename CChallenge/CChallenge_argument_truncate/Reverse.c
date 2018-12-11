@@ -1,5 +1,7 @@
- static void reverse(void){
+#include "utils_methods.h" 
 
+static void reverse(void)
+ {
      char input_string[256] ="";
      scanf_s("%s",input_string);
 
