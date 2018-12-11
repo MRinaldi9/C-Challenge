@@ -29,3 +29,5 @@ CChallenge/CChallenge_argument_truncate/main.o
 CChallenge/CChallenge_argument_truncate/Debug/vc141.pdb
 CChallenge/CChallenge_argument_truncate/Debug/Main.obj
 CChallenge/CChallenge_argument_truncate/utils_method.o
+.vs/slnx.sqlite
+.vs/ProjectSettings.json

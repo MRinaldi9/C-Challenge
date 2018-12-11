@@ -1,6 +1,6 @@
-#include "utils_methods.h" 
 
-static void reverse(void)
+//method deprecated
+static void reverse(char* string)
  {
      char input_string[256] ="";
      scanf_s("%s",input_string);
